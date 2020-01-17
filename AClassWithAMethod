@@ -1,0 +1,7 @@
+package com.javafortesters.chap001basicofjava.examples.classes;
+
+public class AClassWithAMethod{
+  public void AMethodOnAClass(){
+    System.out.System.out.println("HelloWorld");
+  }
+}
